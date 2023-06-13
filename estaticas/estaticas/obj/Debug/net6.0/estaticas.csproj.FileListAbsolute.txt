@@ -1,0 +1,15 @@
+C:\Users\2022102020078\source\repos\estaticas\estaticas\bin\Debug\net6.0\estaticas.exe
+C:\Users\2022102020078\source\repos\estaticas\estaticas\bin\Debug\net6.0\estaticas.deps.json
+C:\Users\2022102020078\source\repos\estaticas\estaticas\bin\Debug\net6.0\estaticas.runtimeconfig.json
+C:\Users\2022102020078\source\repos\estaticas\estaticas\bin\Debug\net6.0\estaticas.dll
+C:\Users\2022102020078\source\repos\estaticas\estaticas\bin\Debug\net6.0\estaticas.pdb
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.csproj.AssemblyReference.cache
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.AssemblyInfoInputs.cache
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.AssemblyInfo.cs
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.dll
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\refint\estaticas.dll
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.pdb
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\estaticas.genruntimeconfig.cache
+C:\Users\2022102020078\source\repos\estaticas\estaticas\obj\Debug\net6.0\ref\estaticas.dll

@@ -1,0 +1,15 @@
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.csproj.AssemblyReference.cache
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.AssemblyInfoInputs.cache
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.AssemblyInfo.cs
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\source\repos\atv2\atv2\bin\Debug\net6.0\atv2.exe
+C:\Users\2022102020078\source\repos\atv2\atv2\bin\Debug\net6.0\atv2.deps.json
+C:\Users\2022102020078\source\repos\atv2\atv2\bin\Debug\net6.0\atv2.runtimeconfig.json
+C:\Users\2022102020078\source\repos\atv2\atv2\bin\Debug\net6.0\atv2.dll
+C:\Users\2022102020078\source\repos\atv2\atv2\bin\Debug\net6.0\atv2.pdb
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.dll
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\refint\atv2.dll
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.pdb
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\atv2.genruntimeconfig.cache
+C:\Users\2022102020078\source\repos\atv2\atv2\obj\Debug\net6.0\ref\atv2.dll
